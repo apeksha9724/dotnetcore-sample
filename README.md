@@ -1,4 +1,3 @@
 Build Status From VSTS
 
-[![Build Status](https://apekshaworkspace.visualstudio.com/_apis/public/build/definitions/56ccd2e0-30c6-4d46-8a6c-79c4a182f350/5/badge
-)](https://apekshaworkspace.visualstudio.com/MyFirstProject/MyFirstProject%20Team/_build/index?buildId=15&_a=summary)
+[![Build Status](https://apekshaprojects.visualstudio.com/_apis/public/build/definitions/b4d3f54a-e26c-4ce3-9cdf-bbadb6b28f91/1/badge)](https://apekshaprojects.visualstudio.com/MyFirstProject/_build/index?context=mine&path=%5C&definitionId=1&_a=completed)
