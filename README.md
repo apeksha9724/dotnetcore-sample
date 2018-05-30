@@ -1,3 +1,2 @@
-# Sample ASP.NET Core application for VSTS and TFS docs
-
-For information on how to use this repository, see [Build your ASP.NET Core app](https://docs.microsoft.com/en-us/vsts/build-release/apps/aspnet/build-aspnet-core).
+[![Build Status](https://apekshaworkspace.visualstudio.com/_apis/public/build/definitions/56ccd2e0-30c6-4d46-8a6c-79c4a182f350/5/badge
+)](https://apekshaworkspace.visualstudio.com/MyFirstProject/MyFirstProject%20Team/_build/index?buildId=15&_a=summary)
